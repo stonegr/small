@@ -9,11 +9,11 @@
  1、 lede/package$下运行 或者openwrt/package$下运行
 
 ```bash
- git clone https://github.com/kenzok8/small.git
+ git clone https://github.com/stonegr/small.git
 ```
  2、 或者添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件
  
 ```bash
- src-git small https://github.com/kenzok8/small
+ src-git small https://github.com/stonegr/small
 ```
 
